@@ -1,6 +1,9 @@
+# Recipe 
 A basic recipe website to demonstrate skills in HTML (HyperText Markup Language), CSS (Cascading Style Sheets)  and working with Git.
 
-The skills:
+ View The live site: [Odin Recipes](https://nirmalsubedi.github.io/odin-recipes/)
+
+## Which skills were demonstrated?
  - Setting up boilerplate html (most commonly used elements across many webpages).
  - Using ol, ul, and li elements to create ordered and unordered lists.
  - Using anchor element to link to other webpages/documents on the website with relative link.
@@ -13,5 +16,3 @@ The skills:
  - Working with margin, border, and padding to place elements in the desired location on the webpage.
  - Adding external stylesheet to html document.  
  - Using git to control the workflow of the development process.
-
- View The live site: [Odin Recipes](https://nirmalsubedi.github.io/odin-recipes/)
